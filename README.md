@@ -1,28 +1,29 @@
-# Applied Data Science @ Columbia
-## Fall 2019
-## Project 1: A "data story" on the songs of our times
+# Fall 2019
+# Project 1: did music change over time?
 
-<img src="figs/title1.jpeg" width="500">
 
-### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Music: How Time Have(Not?) Changed
++ This project is conducted by Wenyue Wu. 
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Here I did a brief analysis using lyrics drawn from random songs from period 1970s to 2010s. I analzyed the data from several angles such as most popular bigrams, lyric segment length, song length, sentiments over time, etc, and concluded the the there are no signifcant changes in lyrics over the decade. 
+
+
+
+
+### [Project Report](doc/Proj1_Final.html)
+
+### [Project Code](doc/Proj1_Final.Rmd)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
 proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
+|-- data/
+|-- doc/
+|-- figs/
+|-- lib/
+|-- output/
 ```
-
-Please see each subfolder for a README file.
